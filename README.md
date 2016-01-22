@@ -1,10 +1,11 @@
 # clj-zeromq
 
-A Clojure library designed to ... well, that part is up to you.
+Broker Server using ZeroMQ with Clojure.
 
 ## Usage
-
-Oliver
+lein deps  
+lein uberjar  
+java -jar target/uberjar/clj-broker-0.1.0-SNAPSHOT-standalone.jar  
 
 ## License
 
