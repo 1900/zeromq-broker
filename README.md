@@ -1,6 +1,6 @@
-# clj-zeromq
+# zeromq broker
 
-Broker Server using ZeroMQ with Clojure.
+ZeroMQ Broker Server using ZeroMQ with Clojure.
 
 ## Usage
 lein deps  
